@@ -1,0 +1,4 @@
+Christian Grant, Ph.d, cgrant@ou.edu, asked about classification strategies
+Keerti Banweer, kbanweer@ou.edu, asked about metrics
+Ben Pratt, bpratt@ou.edu, talked about classification and preprocessing strategies
+Kevin Oberlag, koberlag@ou.edu, talked about model selection and cross-validation
